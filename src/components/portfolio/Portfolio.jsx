@@ -8,8 +8,8 @@ const data = [
     id: 1,
     image: IMG1,
     title: "Minesweeper",
-    github: "https://github.com/Culossus/Minesweeper",
-    demo: "https://culossus.github.io/Minesweeper/",
+    github: "https://github.com/Brandex9/Minesweeper",
+    demo: "https://Brandex9.github.io/Minesweeper/",
   },
   {
     id: 2,

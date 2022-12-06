@@ -6,13 +6,13 @@ import { BsStackOverflow } from "react-icons/bs";
 const HeaderSocials = () => {
   return (
     <div className="header__socials">
-      <a href="https://linkedin.com">
+      <a href="https://www.linkedin.com/in/extrab9/">
         <BsLinkedin />
       </a>
-      <a href="https://github.com">
+      <a href="https://github.com/Culossus">
         <BsGithub />
       </a>
-      <a href="https://stackoverflow.com/">
+      <a href="https://stackoverflow.com/users/11912065/brandex">
         <BsStackOverflow />
       </a>
     </div>
