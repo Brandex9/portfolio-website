@@ -1,4 +1,5 @@
 import React from "react";
+import { useDarkMode } from "./styles/useDarkMode";
 import Header from "./components/header/Header";
 import Nav from "./components/nav/Nav";
 import About from "./components/about/About";
@@ -8,6 +9,7 @@ import Contact from "./components/contact/Contact";
 import Footer from "./components/footer/Footer";
 
 const app = () => {
+  const [theme, toggleTheme] = useDarkMode();
   return (
     <>
       <Header />
