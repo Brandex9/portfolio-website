@@ -1,8 +1,9 @@
 import React from "react";
 import "./About.css";
-import ME from "../../assets/me-about.jpg";
+import ME from "../../assets/20190729_102758_2.jpg";
 import { FaMedal } from "react-icons/fa";
 import { AiOutlineProject } from "react-icons/ai";
+import { GiPapers } from "react-icons/gi";
 
 const About = () => {
   return (
@@ -22,7 +23,7 @@ const About = () => {
             <article className="about__card">
               <FaMedal className="about__icon" />
               <h5>Experience</h5>
-              <small>placeholder years</small>
+              <small>2+</small>
             </article>
             <article className="about__card">
               <AiOutlineProject className="about__icon" />
@@ -30,9 +31,9 @@ const About = () => {
               <small>6</small>
             </article>
             <article className="about__card">
-              <FaMedal className="about__icon" />
-              <h5>Experience</h5>
-              <small>placeholder years</small>
+              <GiPapers className="about__icon" />
+              <h5>Repository</h5>
+              <small>60+</small>
             </article>
           </div>
 

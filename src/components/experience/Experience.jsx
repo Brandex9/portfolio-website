@@ -13,24 +13,34 @@ const Experience = () => {
           <h3>Frontend Development</h3>
           <div className="experience__content">
             <article className="experience__details">
-              <AiOutlineCheckCircle />
-              <h4>HTML</h4>
+              <AiOutlineCheckCircle className="experience__detail-icon" />
+              <div>
+                <h4>HTML</h4>
+              </div>
             </article>
             <article className="experience__details">
-              <AiOutlineCheckCircle />
-              <h4>CSS</h4>
+              <AiOutlineCheckCircle className="experience__detail-icon" />
+              <div>
+                <h4>CSS</h4>
+              </div>
             </article>
             <article className="experience__details">
-              <AiOutlineCheckCircle />
-              <h4>JavaScript</h4>
+              <AiOutlineCheckCircle className="experience__detail-icon" />
+              <div>
+                <h4>JavaScript</h4>
+              </div>
             </article>
             <article className="experience__details">
-              <AiOutlineCheckCircle />
-              <h4>React</h4>
+              <AiOutlineCheckCircle className="experience__detail-icon" />
+              <div>
+                <h4>React</h4>
+              </div>
             </article>
             <article className="experience__details">
-              <AiOutlineCheckCircle />
-              <h4>Redux</h4>
+              <AiOutlineCheckCircle className="experience__detail-icon" />
+              <div>
+                <h4>Redux</h4>
+              </div>
             </article>
           </div>
         </div>
@@ -38,24 +48,34 @@ const Experience = () => {
           <h3>Backend Development</h3>
           <div className="experience__content">
             <article className="experience__details">
-              <AiOutlineCheckCircle />
-              <h4>Node JS</h4>
+              <AiOutlineCheckCircle className="experience__detail-icon" />
+              <div>
+                <h4>Node JS</h4>
+              </div>
             </article>
             <article className="experience__details">
-              <AiOutlineCheckCircle />
-              <h4>MongoDB</h4>
+              <AiOutlineCheckCircle className="experience__detail-icon" />
+              <div>
+                <h4>MongoDB</h4>
+              </div>
             </article>
             <article className="experience__details">
-              <AiOutlineCheckCircle />
-              <h4>PostgresSQL</h4>
+              <AiOutlineCheckCircle className="experience__detail-icon" />
+              <div>
+                <h4>PostgresSQL</h4>
+              </div>
             </article>
             <article className="experience__details">
-              <AiOutlineCheckCircle />
-              <h4>Python</h4>
+              <AiOutlineCheckCircle className="experience__detail-icon" />
+              <div>
+                <h4>Python</h4>
+              </div>
             </article>
             <article className="experience__details">
-              <AiOutlineCheckCircle />
-              <h4>MySQL</h4>
+              <AiOutlineCheckCircle className="experience__detail-icon" />
+              <div>
+                <h4>MySQL</h4>
+              </div>
             </article>
           </div>
           <div className="experience__content">
